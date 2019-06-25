@@ -9,3 +9,4 @@ spring:
       server:
         git:
           uri: https://github.com/java1234/microservice-config
+          
